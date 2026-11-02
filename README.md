@@ -1972,6 +1972,146 @@ Colors accept hex codes (`FF0000`) or named values (`brightgreen`, `critical`, `
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO)
 ```
 
+## Bonus: shieldcn Badges
+
+[shieldcn](https://shieldcn.dev) renders badges as shadcn/ui style buttons, with 6 variants, 10 themes, gradients, split mode, and 45+ providers.
+
+<!-- header banner -->
+<p>
+  <img alt="My-assets" src="https://shieldcn.dev/header/glow.svg?title=My-assets&subtitle=Assets%20by%20ItzMeShadow999&logo=github&theme=violet" />
+</p>
+
+<!-- Discord, dark red to very dark red -->
+<p>
+  <a href="https://discord.gg/uqQv2bXyTd"><img alt="Discord members" src="https://shieldcn.dev/discord/members/uqQv2bXyTd.svg?gradient=8b0000,1a0000,135&logo=discord" /></a>
+  <a href="https://discord.gg/uqQv2bXyTd"><img alt="Discord online" src="https://shieldcn.dev/discord/online-members/uqQv2bXyTd.svg?gradient=8b0000,1a0000,135&logo=discord" /></a>
+  <a href="https://discord.gg/uqQv2bXyTd"><img alt="Join Discord" src="https://shieldcn.dev/badge/Discord-Join_Server-8b0000.svg?gradient=8b0000,1a0000,135&logo=discord" /></a>
+  <a href="https://discord.com/users/1065604516399026176"><img alt="literally.shadow" src="https://shieldcn.dev/badge/Discord-literally.shadow-8b0000.svg?gradient=8b0000,1a0000,135&logo=discord" /></a>
+</p>
+
+<!-- GitHub provider, your repo -->
+<p>
+  <img alt="Stars" src="https://shieldcn.dev/github/stars/ItzMeShadow999/My-assets.svg?variant=default&logo=github" />
+  <img alt="Forks" src="https://shieldcn.dev/github/forks/ItzMeShadow999/My-assets.svg?variant=secondary" />
+  <img alt="Watchers" src="https://shieldcn.dev/github/watchers/ItzMeShadow999/My-assets.svg?variant=outline" />
+  <img alt="Branches" src="https://shieldcn.dev/github/branches/ItzMeShadow999/My-assets.svg?variant=ghost" />
+  <img alt="Tags" src="https://shieldcn.dev/github/tags/ItzMeShadow999/My-assets.svg?variant=secondary" />
+  <img alt="Commits" src="https://shieldcn.dev/github/commits/ItzMeShadow999/My-assets.svg?variant=outline" />
+  <img alt="Last commit" src="https://shieldcn.dev/github/last-commit/ItzMeShadow999/My-assets.svg?variant=branded&logo=git" />
+  <img alt="Open issues" src="https://shieldcn.dev/github/open-issues/ItzMeShadow999/My-assets.svg?variant=outline" />
+  <img alt="Merged PRs" src="https://shieldcn.dev/github/merged-prs/ItzMeShadow999/My-assets.svg?variant=secondary" />
+  <img alt="Contributors" src="https://shieldcn.dev/github/contributors/ItzMeShadow999/My-assets.svg?variant=ghost" />
+  <img alt="License" src="https://shieldcn.dev/github/license/ItzMeShadow999/My-assets.svg?variant=outline" />
+  <img alt="Followers" src="https://shieldcn.dev/github/followers/ItzMeShadow999.svg?variant=default&logo=github" />
+  <img alt="User stars" src="https://shieldcn.dev/github/user-stars/ItzMeShadow999.svg?variant=secondary&logo=github" />
+</p>
+
+<!-- jsDelivr provider, good fit for an assets repo -->
+<p>
+  <img alt="jsDelivr hits" src="https://shieldcn.dev/jsdelivr/hits/gh/ItzMeShadow999/My-assets.svg?variant=branded&logo=jsdelivr" />
+  <img alt="jsDelivr npm hits" src="https://shieldcn.dev/jsdelivr/hits/npm/react.svg?variant=outline&logo=jsdelivr" />
+  <img alt="jsDelivr rank" src="https://shieldcn.dev/jsdelivr/rank/npm/react.svg?variant=secondary&logo=jsdelivr" />
+</p>
+
+<!-- package registries -->
+<p>
+  <img alt="npm" src="https://shieldcn.dev/npm/react.svg?variant=branded" />
+  <img alt="npm weekly" src="https://shieldcn.dev/npm/dw/react.svg?variant=outline" />
+  <img alt="npm types" src="https://shieldcn.dev/npm/types/react.svg?variant=secondary" />
+  <img alt="PyPI" src="https://shieldcn.dev/pypi/django.svg?variant=branded" />
+  <img alt="PyPI python" src="https://shieldcn.dev/pypi/python/django.svg?variant=outline" />
+  <img alt="Crates" src="https://shieldcn.dev/crates/tokio.svg?variant=branded" />
+  <img alt="Crates downloads" src="https://shieldcn.dev/crates/d/tokio.svg?variant=secondary" />
+  <img alt="Docker pulls" src="https://shieldcn.dev/docker/pulls/library/nginx.svg?variant=branded" />
+  <img alt="Docker size" src="https://shieldcn.dev/docker/size/library/nginx.svg?variant=outline" />
+  <img alt="Homebrew" src="https://shieldcn.dev/homebrew/v/wget.svg?variant=branded" />
+  <img alt="Packagist" src="https://shieldcn.dev/packagist/v/laravel/framework.svg?variant=branded" />
+  <img alt="RubyGems" src="https://shieldcn.dev/rubygems/v/rails.svg?variant=branded" />
+  <img alt="NuGet" src="https://shieldcn.dev/nuget/v/Newtonsoft.Json.svg?variant=branded" />
+  <img alt="pub.dev" src="https://shieldcn.dev/pub/v/http.svg?variant=branded" />
+  <img alt="CocoaPods" src="https://shieldcn.dev/cocoapods/v/Alamofire.svg?variant=branded" />
+  <img alt="Conda" src="https://shieldcn.dev/conda/v/conda-forge/numpy.svg?variant=branded" />
+  <img alt="Bundlephobia" src="https://shieldcn.dev/bundlephobia/minzip/react.svg?variant=secondary" />
+</p>
+
+<!-- extensions and mods -->
+<p>
+  <img alt="VS Code installs" src="https://shieldcn.dev/vscode/installs/ms-python/python.svg?variant=branded&logo=visualstudiocode" />
+  <img alt="VS Code rating" src="https://shieldcn.dev/vscode/rating/ms-python/python.svg?variant=outline" />
+  <img alt="Modrinth downloads" src="https://shieldcn.dev/modrinth/downloads/sodium.svg?variant=branded&logo=modrinth" />
+</p>
+
+<!-- social providers -->
+<p>
+  <img alt="Bluesky" src="https://shieldcn.dev/bluesky/followers/bsky.app.svg?variant=branded" />
+  <img alt="Mastodon" src="https://shieldcn.dev/mastodon/followers/mastodon.social/Gargron.svg?variant=branded" />
+  <img alt="Reddit" src="https://shieldcn.dev/reddit/subscribers/r/programming.svg?variant=branded" />
+  <img alt="Hacker News" src="https://shieldcn.dev/hackernews/pg.svg?variant=branded" />
+  <img alt="Stack Overflow" src="https://shieldcn.dev/stackexchange/tag/javascript.svg?variant=branded" />
+  <img alt="GitLab" src="https://shieldcn.dev/gitlab/inkscape/inkscape/stars.svg?variant=branded" />
+</p>
+
+<!-- your own accounts, swap the placeholders -->
+<p>
+  <img alt="WakaTime" src="https://shieldcn.dev/wakatime/YOUR_WAKATIME_USERNAME.svg?variant=branded" />
+  <img alt="YouTube subs" src="https://shieldcn.dev/youtube/subscribers/YOUR_CHANNEL_ID.svg?variant=branded" />
+</p>
+
+<!-- gradients -->
+<p>
+  <img alt="Vanilla JS" src="https://shieldcn.dev/badge/Vanilla_JS-no_framework-f7df1e.svg?gradient=f7df1e,ff6b6b,135&logo=javascript" />
+  <img alt="Cloudflare" src="https://shieldcn.dev/badge/Cloudflare-Workers-f38020.svg?gradient=f38020,fbad41,90&logo=cloudflare" />
+  <img alt="Vercel" src="https://shieldcn.dev/badge/Hosted_on-Vercel-000000.svg?gradient=000000,434343,135&logo=vercel" />
+  <img alt="Cyan to violet" src="https://shieldcn.dev/badge/Assets-ItzMeShadow999-7c3aed.svg?gradient=06b6d4,7c3aed,45&logo=github" />
+</p>
+
+<!-- split mode, status dots, Lucide icons -->
+<p>
+  <img alt="Split stars" src="https://shieldcn.dev/github/stars/ItzMeShadow999/My-assets.svg?split=true&variant=secondary" />
+  <img alt="Split commit" src="https://shieldcn.dev/github/last-commit/ItzMeShadow999/My-assets.svg?split=true&variant=outline" />
+  <img alt="Status" src="https://shieldcn.dev/badge/status-online-22c55e.svg?statusDot=true&variant=outline" />
+  <img alt="Build" src="https://shieldcn.dev/badge/build-passing-22c55e.svg?logo=lu:CircleCheck&variant=secondary" />
+  <img alt="Maintained" src="https://shieldcn.dev/badge/maintained-yes-3b82f6.svg?logo=lu:Wrench&variant=outline" />
+  <img alt="Assets" src="https://shieldcn.dev/badge/assets-free-a855f7.svg?logo=lu:Package&variant=default" />
+  <img alt="Made with love" src="https://shieldcn.dev/badge/made_with-love-ef4444.svg?logo=ri:FaHeart&variant=ghost" />
+</p>
+
+<!-- all 10 documented themes -->
+<p>
+  <img alt="zinc" src="https://shieldcn.dev/badge/zinc-theme-71717a.svg?theme=zinc" />
+  <img alt="slate" src="https://shieldcn.dev/badge/slate-theme-64748b.svg?theme=slate" />
+  <img alt="blue" src="https://shieldcn.dev/badge/blue-theme-3b82f6.svg?theme=blue" />
+  <img alt="green" src="https://shieldcn.dev/badge/green-theme-22c55e.svg?theme=green" />
+  <img alt="rose" src="https://shieldcn.dev/badge/rose-theme-f43f5e.svg?theme=rose" />
+  <img alt="orange" src="https://shieldcn.dev/badge/orange-theme-f97316.svg?theme=orange" />
+  <img alt="violet" src="https://shieldcn.dev/badge/violet-theme-8b5cf6.svg?theme=violet" />
+  <img alt="purple" src="https://shieldcn.dev/badge/purple-theme-a855f7.svg?theme=purple" />
+  <img alt="cyan" src="https://shieldcn.dev/badge/cyan-theme-06b6d4.svg?theme=cyan" />
+  <img alt="emerald" src="https://shieldcn.dev/badge/emerald-theme-10b981.svg?theme=emerald" />
+</p>
+
+<!-- fonts, sizes, custom shape -->
+<p>
+  <img alt="Geist Mono" src="https://shieldcn.dev/github/stars/ItzMeShadow999/My-assets.svg?font=geist-mono&variant=outline" />
+  <img alt="Geist" src="https://shieldcn.dev/github/forks/ItzMeShadow999/My-assets.svg?font=geist&variant=secondary" />
+  <img alt="Pill" src="https://shieldcn.dev/badge/pill-shaped-8b5cf6.svg?radius=999&variant=default" />
+  <img alt="Square" src="https://shieldcn.dev/badge/square-corners-f97316.svg?radius=0&variant=default" />
+  <img alt="Tall" src="https://shieldcn.dev/badge/tall-badge-06b6d4.svg?height=40&fontSize=16&variant=default" />
+  <img alt="Custom color" src="https://shieldcn.dev/badge/custom-color-ff3860.svg?color=ff3860&valueColor=ffffff" />
+</p>
+
+<!-- dynamic JSON: live values from the GitHub API -->
+<p>
+  <img alt="Language" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fapi.github.com%2Frepos%2FItzMeShadow999%2FMy-assets&query=%24.language&label=language&variant=outline" />
+  <img alt="Size" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fapi.github.com%2Frepos%2FItzMeShadow999%2FMy-assets&query=%24.size&label=size%20kb&variant=secondary" />
+  <img alt="Default branch" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fapi.github.com%2Frepos%2FItzMeShadow999%2FMy-assets&query=%24.default_branch&label=branch&variant=ghost" />
+</p>
+
+<!-- star history chart -->
+<p>
+  <img alt="Star history" src="https://shieldcn.dev/chart/github/stars/ItzMeShadow999/My-assets.svg?theme=violet" />
+</p>
+
 ---
 
 
