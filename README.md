@@ -1898,6 +1898,38 @@ Use this pattern when you need a fully custom badge design that shields.io canno
 ![Temperature](https://img.shields.io/badge/Temperature-14C-0A0E27?style=flat-square&labelColor=05070F&color=FDA4AF)
 ![Moons](https://img.shields.io/badge/Moons-2-0A0E27?style=flat-square&labelColor=05070F&color=CBD5E1)
 
+---
+
+### Repo Vitals
+
+<p>
+  <a href="https://github.com/ItzMeShadow999/My-assets/stargazers"><img alt="Stars" src="https://shieldcn.dev/github/stars/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/forks"><img alt="Forks" src="https://shieldcn.dev/github/forks/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/watchers"><img alt="Watchers" src="https://shieldcn.dev/github/watchers/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/issues"><img alt="Open issues" src="https://shieldcn.dev/github/open-issues/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/issues?q=is%3Aissue+is%3Aclosed"><img alt="Closed issues" src="https://shieldcn.dev/github/closed-issues/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/pulls"><img alt="Open PRs" src="https://shieldcn.dev/github/open-prs/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/pulls?q=is%3Apr+is%3Aclosed"><img alt="Closed PRs" src="https://shieldcn.dev/github/closed-prs/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/graphs/contributors"><img alt="Contributors" src="https://shieldcn.dev/github/contributors/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/commits"><img alt="Last commit" src="https://shieldcn.dev/github/last-commit/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/graphs/commit-activity"><img alt="Commit activity" src="https://shieldcn.dev/github/commit-activity/m/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets"><img alt="Repo size" src="https://shieldcn.dev/github/repo-size/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets"><img alt="Top language" src="https://shieldcn.dev/github/top-language/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets"><img alt="Language count" src="https://shieldcn.dev/github/languages/count/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/releases"><img alt="Release" src="https://shieldcn.dev/github/release/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/tags"><img alt="Tag" src="https://shieldcn.dev/github/tag/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/blob/main/LICENSE"><img alt="License" src="https://shieldcn.dev/github/license/ItzMeShadow999/My-assets.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999"><img alt="Followers" src="https://shieldcn.dev/github/followers/ItzMeShadow999.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets"><img alt="GitHub" src="https://shieldcn.dev/badge/GitHub.svg?variant=branded&size=xs&theme=zinc&logo=github" /></a>
+  <a href="https://itzmeshadow.is-a.dev"><img alt="Website" src="https://shieldcn.dev/badge/itzmeshadow.is--a.dev.svg?variant=secondary&size=xs&theme=zinc" /></a>
+  <a href="https://github.com/ItzMeShadow999/My-assets/pulls"><img alt="PRs welcome" src="https://shieldcn.dev/badge/PRs_Welcome.svg?variant=branded&size=xs&theme=zinc" /></a>
+</p>
+
+---
+
+
+
+---
 
 ## Bonus: Custom Colored-Text Badges
 
